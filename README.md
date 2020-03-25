@@ -1,2 +1,2 @@
 # test-app-microservices
-Sample applications to test microservice architecture 
+Distroless docker images sample applications to test microservice architecture 
